@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "5OHxloy3ave9A5P+31S8SWL4d3lkqOUZX+LRCFKvSsEKZye6OxyP6/IEfQKYIBGOcHuEK8GiYqCPz4YBi0QszQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\olive\\source\\repos\\BlockchainProject\\BlockchainProject\\BlockchainProject.iOS\\BlockchainProject.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\olive\\.nuget\\packages\\africastalking.net\\1.2.2\\africastalking.net.1.2.2.nupkg.sha512",
+    "C:\\Users\\olive\\.nuget\\packages\\libphonenumber-csharp\\8.12.11\\libphonenumber-csharp.8.12.11.nupkg.sha512",
+    "C:\\Users\\olive\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
+    "C:\\Users\\olive\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\olive\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\olive\\.nuget\\packages\\newtonsoft.json.bson\\1.0.1\\newtonsoft.json.bson.1.0.1.nupkg.sha512",
+    "C:\\Users\\olive\\.nuget\\packages\\plugin.toast\\2.2.0\\plugin.toast.2.2.0.nupkg.sha512",
+    "C:\\Users\\olive\\.nuget\\packages\\system.collections.immutable\\1.7.0\\system.collections.immutable.1.7.0.nupkg.sha512",
+    "C:\\Users\\olive\\.nuget\\packages\\system.data.sqlclient\\4.8.2\\system.data.sqlclient.4.8.2.nupkg.sha512",
+    "C:\\Users\\olive\\.nuget\\packages\\system.net.http\\4.3.4\\system.net.http.4.3.4.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

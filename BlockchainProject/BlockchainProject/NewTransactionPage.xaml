@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:BlockchainProject"
+             x:Class="BlockchainProject.NewTransactionPage">
+    <ContentPage.BindingContext>
+        <local:ViewClass></local:ViewClass>
+    </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Enter Sender to send money"
+                   Padding="30,10,30,0"
+                   FontSize="Title"
+                   TextColor="Green"/>
+            <Picker ItemDisplayBinding="{Binding Surname}"
+                    x:Name="detailsBind"
+                    SelectedIndexChanged="detailsBind_SelectedIndexChanged"
+                    Title="Select person"
+                    ItemsSource="{Binding bindings}"/>
+            <Entry Placeholder="enter phone number"
+                   x:Name="phoneNum"
+                   Margin="30,10,30,0"/>
+            <Label Text="Enter Amount"
+                   FontSize="Title"
+                   TextColor="Green"
+                   Padding="30,10,30,0"/>
+            <Entry Placeholder="enter amount"
+                   Margin="30,10,30,0"/>
+            
+            <Button Text="Confirm"
+                    x:Name="confirmButton"
+                    Clicked="confirmButton_Clicked"
+                    BackgroundColor="red"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

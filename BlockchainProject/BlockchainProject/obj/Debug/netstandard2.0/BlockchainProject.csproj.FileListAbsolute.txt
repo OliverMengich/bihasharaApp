@@ -1,0 +1,17 @@
+C:\Users\olive\source\repos\BlockchainProject\BlockchainProject\BlockchainProject\bin\Debug\netstandard2.0\BlockchainProject.deps.json
+C:\Users\olive\source\repos\BlockchainProject\BlockchainProject\BlockchainProject\bin\Debug\netstandard2.0\BlockchainProject.dll
+C:\Users\olive\source\repos\BlockchainProject\BlockchainProject\BlockchainProject\obj\Debug\netstandard2.0\BlockchainProject.csprojAssemblyReference.cache
+C:\Users\olive\source\repos\BlockchainProject\BlockchainProject\BlockchainProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\olive\source\repos\BlockchainProject\BlockchainProject\BlockchainProject\obj\Debug\netstandard2.0\ConfirmationPage.xaml.g.cs
+C:\Users\olive\source\repos\BlockchainProject\BlockchainProject\BlockchainProject\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\olive\source\repos\BlockchainProject\BlockchainProject\BlockchainProject\obj\Debug\netstandard2.0\BlockchainProject.AssemblyInfoInputs.cache
+C:\Users\olive\source\repos\BlockchainProject\BlockchainProject\BlockchainProject\obj\Debug\netstandard2.0\BlockchainProject.AssemblyInfo.cs
+C:\Users\olive\source\repos\BlockchainProject\BlockchainProject\BlockchainProject\bin\Debug\netstandard2.0\ref\BlockchainProject.dll
+C:\Users\olive\source\repos\BlockchainProject\BlockchainProject\BlockchainProject\bin\Debug\netstandard2.0\BlockchainProject.pdb
+C:\Users\olive\source\repos\BlockchainProject\BlockchainProject\BlockchainProject\obj\Debug\netstandard2.0\NewTransactionPage.xaml.g.cs
+C:\Users\olive\source\repos\BlockchainProject\BlockchainProject\BlockchainProject\obj\Debug\netstandard2.0\RegisterPage.xaml.g.cs
+C:\Users\olive\source\repos\BlockchainProject\BlockchainProject\BlockchainProject\obj\Debug\netstandard2.0\BlockchainProject.csproj.CoreCompileInputs.cache
+C:\Users\olive\source\repos\BlockchainProject\BlockchainProject\BlockchainProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\olive\source\repos\BlockchainProject\BlockchainProject\BlockchainProject\obj\Debug\netstandard2.0\BlockchainProject.dll
+C:\Users\olive\source\repos\BlockchainProject\BlockchainProject\BlockchainProject\obj\Debug\netstandard2.0\ref\BlockchainProject.dll
+C:\Users\olive\source\repos\BlockchainProject\BlockchainProject\BlockchainProject\obj\Debug\netstandard2.0\BlockchainProject.pdb

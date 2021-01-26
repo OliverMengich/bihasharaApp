@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BlockchainProject.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" Margin="5,5,5,5" CornerRadius="15">
+            <Label Text="Welcome to Bihashara" HorizontalTextAlignment="Center" TextColor="White" FontSize="30"/>
+        </Frame>
+        <Label Text="Fill in details to register" FontSize="Title" Padding="30,10,30,10"/>
+      
+        <Label Text="Enter SurName" FontSize="16" Padding="30,0,30,0"/>
+        <Entry Placeholder="Surname" x:Name="surName" Keyboard="Default" MaxLength="50" Margin="30,0,30,0" />
+        
+        <Label Text="Enter Other Names" FontSize="16" Padding="30,0,30,0"/>
+        <Entry Placeholder="Other Names" x:Name="otherNames" Keyboard="Default" MaxLength="50" Margin="30,0,30,0" />
+        
+        <Label Text="Enter Phone Number" FontSize="16" Padding="30,0,30,0"/>
+        <Entry Placeholder="start with +254..." x:Name="phoneNumber" Keyboard="Default" MaxLength="50" Margin="30,0,30,0" />
+
+        <Label Text="ID number" FontSize="16" Padding="30,0,30,0"/>
+        <Entry Placeholder="enter ID number" x:Name="idNumber" Keyboard="Default" MaxLength="50" Margin="30,0,30,0" />
+        
+        <Button Text="Sign Up" x:Name="signUpButton" Clicked="signUpButton_Clicked"  />
+    </StackLayout>
+
+</ContentPage>
